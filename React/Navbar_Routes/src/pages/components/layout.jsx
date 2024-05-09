@@ -2,8 +2,8 @@ import  { useState } from 'react';
 import '../../css/Layout.css';
 import {Button, Layout} from 'antd';
 import { MenuFoldOutlined, MenuUnfoldOutlined } from '@ant-design/icons';
-import Logo from '../../components/Layout/Logo';
-import MenuList from '../../components/Layout/MenuList';
+import Logo from '../../subcomponents/Layout/Logo';
+import MenuList from '../../subcomponents/Layout/MenuList';
 import { Outlet } from 'react-router-dom';
 
 const { Header, Sider } = Layout;
