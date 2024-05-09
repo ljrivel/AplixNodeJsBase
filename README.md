@@ -8,7 +8,7 @@ Esto es una base de mini proyectos los cuales se pueden usar como estándares y 
 La siguiente son una lista de los frameworks y las carpetas  de mini proyectos que cuentan: 
 
 * React
-   -  Redireccionamiento y Navbar  
+   -  Navbar_Routes (Contiene el Navbar y el uso de redirrecionamientos)  
 
 * Api
     - Base (Conexión a base de datos, manejo de rutas y controladores)
